@@ -1,1 +1,2 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/docker-hmh/nginx:alpine
+alpine
+nginx:alpine
