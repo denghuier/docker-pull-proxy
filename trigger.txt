@@ -1,2 +1,2 @@
 nginx:alpine registry.cn-hangzhou.aliyuncs.com/docker-hmh/nginx:alpine
-apache/apisix:3.9.1  registry.cn-hangzhou.aliyuncs.com/docker-hmh/apisix:3.9.1
+apache/apisix:3.9.1  registry.cn-hangzhou.aliyuncs.com/docker-hmh/apache/apisix:3.9.1
